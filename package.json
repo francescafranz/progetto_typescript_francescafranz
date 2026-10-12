@@ -1,0 +1,24 @@
+{
+  "name": "progetto_typescript_francescafranz",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/francescafranz/progetto_typescript_francescafranz#readme",
+  "bugs": {
+    "url": "https://github.com/francescafranz/progetto_typescript_francescafranz/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescafranz/progetto_typescript_francescafranz.git"
+  },
+  "license": "ISC",
+  "author": "Francesca Franz",
+  "type": "commonjs",
+  "main": "sunnee.ts",
+  "scripts": {
+    "start": "tsx sunnee.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
+  }
+}
